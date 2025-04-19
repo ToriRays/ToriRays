@@ -2,9 +2,12 @@
 
 **Arkeolo– Archaeo– Argh–**  
 _Code Explorer_ • _Open Source Addict_ • _Framework Digger_  
+
 From **bones** to **bugs** — now decoding layers in `.NET`, `React`, `Python`, and `AI`.  
-Still exploring the unknown — just with better lighting 💡
-🎮 Occasionally disappear into Unity for “research” (don’t ask).
+Still exploring the unknown — just with better lighting 💡  
+
+🎮 Occasionally disappear into `Unity` for “research” (don’t ask).
+
 
 
 ###
