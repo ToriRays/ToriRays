@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Viktoriya, a passionate Junior Developer</h2>
+<h2 align="left">About</h2>
+
+**Arkeolo– Archaeo– Argh–**  
+_Code Explorer_ • _Open Source Addict_ • _Framework Digger_  
+From **bones** to **bugs** — now decoding layers in `.NET`, `React`, `Python`, and `AI`.  
+Still exploring the unknown — just with better lighting 💡
+
 
 ###
 
