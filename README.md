@@ -8,19 +8,24 @@ Still exploring the unknown — just with better lighting 💡
 
 🎮 Occasionally disappear into `Unity` for “research” (don’t ask).
 
+---
 
-
-###
-
+# 📊 GitHub Stats:
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToriRays&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ToriRays&theme=dark&hide_border=false" height="150" alt="streak graph" />
+</div>
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToriRays&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToriRays&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToriRays&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=ToriRays&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🧰 Languages and Tools
-
-<div align="left">
+<div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
@@ -57,8 +62,6 @@ Still exploring the unknown — just with better lighting 💡
 </div>
 
 ###
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToriRays/ToriRays/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToriRays/ToriRays/output/github-snake.svg" />
