@@ -6,24 +6,10 @@ _Code Explorer_ • _Open Source Addict_ • _Framework Digger_
 From **bones** to **bugs** — now decoding layers in `.NET`, `React`, `Python`, and `AI`.  
 Still exploring the unknown — just with better lighting 💡  
 
-🎮 Occasionally disappear into `Unity` for “research” (don’t ask).
+🎮 Occasionally disappear into `Unity` & `Zbrush` for “research” .
 
 ---
-
-# 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToriRays&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ToriRays&theme=dark&hide_border=false" height="150" alt="streak graph" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToriRays&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=ToriRays&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 🧰 Languages and Tools
 <div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
