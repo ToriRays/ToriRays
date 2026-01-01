@@ -7,7 +7,6 @@ From **bones** to **bugs** — now decoding layers in `.NET`, `React`, `Python`,
 Still exploring the unknown — just with better lighting 💡  
 
 🎮 Occasionally disappear into `Unity` & `Zbrush` for “research” .
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ToriRays&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 🧰 Languages and Tools
